@@ -14,6 +14,7 @@ import pointertoffer.Node.ListNode;
  * }
  * 示例 1：
  * 输入：head = [1,3,2]
+ * test
  * 输出：[2,3,1]
  */
 public class ReversePrint06 {
